@@ -4,6 +4,8 @@ A personalized **Movie Recommender System** built with **Python** and **Streamli
 This project suggests movies based on user preferences, combining Machine Learning techniques with an interactive web interface.
 
 ---
+## 🚀 Live Demo [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-recommender-system-8vuvhejdva5rz7krhjvb3z.streamlit.app/)
+
 
 ## 🚀 Features
 - **Content-based recommendations** using movie metadata (overview, genres, crew, etc.)
